@@ -1,0 +1,1 @@
+{"commit_message": "Test fixture run", "debug": false, "push": true, "optimizer_options": {"optimizer": "U_NSGA3", "pop_size": 4, "n_cores": 1, "n_max_gen": 2}}
