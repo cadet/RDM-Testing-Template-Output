@@ -1,0 +1,14 @@
+{
+  "output_repo_commit_message": "Test fixture run; ",
+  "output_repo_branch": "2026-10-05_12-49-15_main_64f656c",
+  "output_repo_commit_hash": "aa2ddc06294e84fef6202db6f58a926380944416",
+  "project_repo_branch": "main",
+  "project_repo_commit_hash": "64f656c8f35df43c0349503ed1ebcdb612a3ea13",
+  "project_repo_directory_name": "RDM-Testing-Template-run",
+  "project_repo_remotes": [
+    "git@github.com:cadet/RDM-Testing-Template.git"
+  ],
+  "python_sys_args": "['run_fixture.py']",
+  "tags": "",
+  "options_hash": "58m9wdx60fgbpy8r7tq293kmdmx3j5tz"
+}

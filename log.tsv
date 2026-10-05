@@ -1,0 +1,2 @@
+output_repo_commit_message	output_repo_branch	output_repo_commit_hash	project_repo_branch	project_repo_commit_hash	project_repo_directory_name	project_repo_remotes	python_sys_args	tags	options_hash
+Test fixture run; 	2026-10-05_12-49-15_main_64f656c	aa2ddc06294e84fef6202db6f58a926380944416	main	64f656c8f35df43c0349503ed1ebcdb612a3ea13	RDM-Testing-Template-run	['git@github.com:cadet/RDM-Testing-Template.git']	['run_fixture.py']		58m9wdx60fgbpy8r7tq293kmdmx3j5tz

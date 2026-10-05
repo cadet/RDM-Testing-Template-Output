@@ -1,0 +1,9 @@
+name: rdm_testing_template
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - git
+  - git-lfs
+prefix: /home/IBT/lanzrath/miniforge3/envs/rdm_testing_template

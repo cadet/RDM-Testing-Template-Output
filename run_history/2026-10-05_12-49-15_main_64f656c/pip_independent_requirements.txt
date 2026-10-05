@@ -1,0 +1,6 @@
+CADET-Process==0.12.0
+CADET-RDM==1.1.2
+pip==26.2.1
+setuptools==84.0.0
+wheel==0.48.0
+xarray-einstats==0.11.0
